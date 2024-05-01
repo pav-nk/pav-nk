@@ -7,7 +7,7 @@ I am a Frontend developer with engineer background and love for anything tech.
 ### 🛠️ Some tools i use:
 
 <p>
-    <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GNU%20Bash-5E5C64?style=flat-square&logo=GNUBash&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
