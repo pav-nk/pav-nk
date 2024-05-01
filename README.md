@@ -17,7 +17,7 @@ I am a Frontend developer with engineer background and love for anything tech.
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuetify&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NodeJS-417E38?style=flat-square&logo=Nodejs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.JS-417E38?style=flat-square&logo=Node&logoColor=white"/>
 <p>
 
 ### 📫 How to reach me:
