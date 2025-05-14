@@ -22,6 +22,6 @@ I am a Frontend developer with engineer background and love for anything tech.
 
 ### 📫 How to reach me:
 
-- Email: pav-n-k@ya.ru
-- Telegram: [@pav_nk](https://t.me/pav_nk)
-- Discord: pav_nk
+- Email: pavel.nkx@gmail.com
+- Telegram: [@pavel_nkx](https://t.me/pavel_nkx)
+- Discord: pavel-nkx
