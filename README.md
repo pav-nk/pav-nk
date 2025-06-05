@@ -22,5 +22,5 @@ I am a Frontend developer with engineer background and love for anything tech.
 ### 📫 How to reach me:
 
 - Email: pav.nknv@gmail.com
-- Telegram: [@pav-nknv](https://t.me/pav-nknv)
+- Telegram: [@pav_nknv](https://t.me/pav_nknv)
 - Discord: pav.nknv
